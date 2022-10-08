@@ -1,0 +1,14 @@
+Alberto 8.5
+Alex 7.0
+Beatriz 9.5
+Carla 9.0
+Débora 8.0
+Gabriela 8.5
+Juliana 7.0
+Lucas 9.0
+Marcela 7.0
+Olívia 7.5
+Roberto 10.0
+Tatiana 8.0
+Tiago 8.5
+Valter 7.5

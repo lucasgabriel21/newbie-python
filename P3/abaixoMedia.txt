@@ -1,0 +1,11 @@
+Alan 6.5
+Augusto 5.0
+Diego 4.0
+Eduardo 6.0
+Gustavo 5.5
+João 3.5
+Marcos 5.0
+Osvaldo 4.5
+Paula 6.5
+Sílvio 5.5
+Vanderlei 3.0
